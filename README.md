@@ -67,3 +67,6 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 U SRIRAM
 
 usriram186@gmail.com
+
+## License
+
