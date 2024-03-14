@@ -5,6 +5,8 @@ This Solidity program is a "ERC20-TOKEN" program that demonstrates use to ERC to
 ## Description
 
 The ERC20-TOKEN contract consists of the following components:
+Token name : Ratatouillie
+Token symbol : RT
 
 - Constructor:
 
@@ -57,7 +59,7 @@ contract Ratatouille is ERC20, Ownable {
 ```
 
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.20" (or another compatible version), and then click on the "Compile avax_error.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.20" (or another compatible version), and then click on the "Compile Ratatoullie.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Ratatoullie.sol" contract from the dropdown menu, and then click on the "Deploy" button.
 
