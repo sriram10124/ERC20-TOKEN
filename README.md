@@ -5,7 +5,9 @@ This Solidity program is a "ERC20-TOKEN" program that demonstrates use to ERC to
 ## Description
 
 The ERC20-TOKEN contract consists of the following components:
+
 Token name : Ratatouillie
+
 Token symbol : RT
 
 - Constructor:
