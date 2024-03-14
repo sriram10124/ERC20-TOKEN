@@ -12,10 +12,10 @@ Token symbol : RT
 
 - Constructor:
 
-The constructor initializes the owner address. It also sets the owner variable to a specific Ethereum address (0x5B38Da6a701c568545dCfcB03FcB875f56beddC4).
+The constructor initializes the owner address. It sets the owner variable to a specific Ethereum address which in this program is "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4".
 - Modifier:
 
-onlyOwner: This modifier restricts access to certain functions to only the contract owner. It verifies whether the caller of the function is the owner before allowing the function to proceed.
+onlyOwner: This modifier restricts access to certain functions to only the contract owner address. It verifies whether the caller of the function is the owner address before allowing the function to proceed.
 - Functions:
   
 _mint function : adding of tokens to an account can be done using this mint function. Input address and value to mint. 'Ownable' is used to make sure that owner address is the only one that has access to call the function.
